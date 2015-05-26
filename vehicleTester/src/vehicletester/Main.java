@@ -2,6 +2,14 @@ package vehicletester;
 
 import javax.swing.*;
 
+/**
+ * @title VehicleTester
+ * @author Steven Biro
+ * @teacher Mr. J. Carron
+ * @date 01-May-2015 1:40:44 PM
+ * @purpose The purpose of this program is to emulate the functions of a vehicle
+ */
+
 public class Main {
 
     public static void main(String[] args) {
